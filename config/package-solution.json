@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "delphi-directory-client-side-solution",
+    "id": "efaa777b-62b2-4bb8-ad98-0c140adde79a",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "delphi-directory description"
+      },
+      "longDescription": {
+        "default": "delphi-directory description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "delphi-directory Feature",
+        "description": "The feature that activates elements of the delphi-directory solution.",
+        "id": "d7a5ec17-ca42-40c6-9ff1-6673781bcc6a",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/delphi-directory.sppkg"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.19.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.1",
+    "libraryName": "delphi-directory",
+    "libraryId": "efaa777b-62b2-4bb8-ad98-0c140adde79a",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "delphi-directory",
+    "solutionShortDescription": "delphi-directory description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
